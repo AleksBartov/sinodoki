@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "sinodoki",
+    "slug": "sinodoki",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/neumorphism.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#DEEAF6"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
